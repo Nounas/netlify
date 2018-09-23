@@ -1,0 +1,5 @@
+G:
+
+cd Le répertoire
+
+git init

@@ -1,0 +1,9 @@
+git add .
+
+git commit -m "le nom que tu veux"
+
+git push
+
+https://app.netlify.com/sites/site-professionnel/deploys
+
+https://site-professionnel.netlify.com
